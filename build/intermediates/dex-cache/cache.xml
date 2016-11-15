@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/rafael/projects/Flipper/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="825967b1c23a0b0206d3f358049f537d5c3b18ea">
+        <dex dex="/home/rafael/projects/Flipper/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7440a6c4364211a17e1c54f955c1c1791986f7ab/classes.dex" />
+    </item>
+
+</items>

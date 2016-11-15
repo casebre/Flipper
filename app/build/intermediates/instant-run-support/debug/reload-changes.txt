@@ -1,0 +1,5 @@
+CHANGED,/home/rafael/projects/Flipper/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/ca/casebre/flipper/R$styleable$override.class
+CHANGED,/home/rafael/projects/Flipper/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/appcompat/R$style$override.class
+CHANGED,/home/rafael/projects/Flipper/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/ca/casebre/flipper/PresentationActivity$2$override.class
+CHANGED,/home/rafael/projects/Flipper/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/ca/casebre/flipper/R$style$override.class
+CHANGED,/home/rafael/projects/Flipper/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
